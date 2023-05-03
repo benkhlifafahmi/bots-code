@@ -1,0 +1,7 @@
+__pycache__
+session_chrome
+.env
+docker-compose.yml
+docker-compose.yml.old
+Dockerfile
+Dockerfile.old
